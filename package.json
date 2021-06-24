@@ -1,6 +1,6 @@
 {
   "name": "react-native-immediate-call-library",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Initiate immediate phone call for React Native on iOS and Android.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/tuanlv89/react-native-immediate-call-library"
   },
+  "homepage": "https://github.com/tuanlv89/react-native-immediate-call-library",
   "keywords": [
     "react",
     "native",
