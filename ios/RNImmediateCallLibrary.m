@@ -5,7 +5,7 @@
 
 RCT_EXPORT_MODULE()
 
-RCT_EXPORT_METHOD(immediatePhoneCall:(NSString *)number)
+RCT_EXPORT_METHOD(immediateCall:(NSString *)number)
 {
     dispatch_async(dispatch_get_main_queue(), ^{
       UIApplication *application = [UIApplication sharedApplication];
