@@ -1,6 +1,6 @@
 {
   "name": "react-native-immediate-call-library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Initiate immediate phone call for React Native on iOS and Android.",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,7 @@
   ],
   "author": "Tuanlv98",
   "license": "GPLv3",
-  "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
+  "bugs": {
+    "url": "https://github.com/tuanlv89/react-native-immediate-call-library/issues"
   }
 }

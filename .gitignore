@@ -8,7 +8,14 @@
 node_modules/
 npm-debug.log
 yarn-error.log
-  
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages
 
 # Xcode
 #

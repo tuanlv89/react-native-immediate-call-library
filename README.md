@@ -1,9 +1,16 @@
 
 # react-native-immediate-call-library
 
+Initiate immediate phone call for React Native on iOS and Android.
+
 ## Getting started
 
-`$ yarn add react-native-immediate-call-library`
+```bash
+Using npm:
+npm install react-native-immediate-call-library --save
+Using Yarn:
+yarn add react-native-immediate-call-library
+```
 
 #### iOS installation
 ```
