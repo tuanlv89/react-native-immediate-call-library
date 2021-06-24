@@ -1,6 +1,6 @@
 {
   "name": "react-native-immediate-call-library",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Initiate immediate phone call for React Native on iOS and Android.",
   "main": "index.js",
   "scripts": {

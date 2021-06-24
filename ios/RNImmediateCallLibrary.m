@@ -1,3 +1,4 @@
+#import <UIKit/UIKit.h>
 #import "RNImmediateCallLibrary.h"
 
 @implementation RNImmediateCallLibrary
